@@ -1,1 +1,2 @@
-# SunoAI_GitBook
+# SunoAI_GitBook 
+## An ongoing extensive documentations, guides, and educational literature relating to the usage of Suno Inc most advanced AI developments which include Suno AI V2-V5.5 as well as Sunos latest addition Suno Studio 
